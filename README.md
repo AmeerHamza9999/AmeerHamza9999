@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmeerHamza9999
-- 👀 I’m interested in Web & App Development.
+- 👀 I’m interested in Data Analyst.
 - 🌱 I’m currently doing BS Computer Science from @cuiwah.
-- 💞️ I’m looking to collaborate on Web development Projects.
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 How to reach me ...? Email: ameerhamzaaa468@gmail.com
 
 <!---
